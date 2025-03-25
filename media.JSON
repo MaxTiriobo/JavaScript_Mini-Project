@@ -1,0 +1,16 @@
+{
+    "stages": [
+        {
+            "level": 1,
+            "message": "Please fill in the required fields"
+        },
+        {
+            "level": 2,
+            "message": "The credentials are empty, please fill them out"
+        },
+        {
+            "level": 3,
+            "message": "There is nothing in the boxes above"
+        }
+    ]
+}
